@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/14b5562541a405f42c898cd0d5ad13a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f2e00fc6ddb02a618b877f2454f23f43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e6c702afc629f120ee447607b5466bb3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b64525ddd9279a10cf201f9b2bdb1336/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/49936c83e462728e07232e4c31a64699/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/42021858ba2e8a819b0c37caadf349da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0587f063207a145013a6d64599163831/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e8175b2b2704fb490f47cfd6392b4255/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9fed6e8515cf2b0984ed9992b5c87d37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/082a4f14aaef12c011181e50044b8092/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6286ddd39ea69e19bedcbb5cb8506442/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d9d13cfbafb04cc57727c168edce83c7/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cc6e651b2f13daab3038a90c66b61a88/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b64e42398cb276793d16408d3ddcd7c8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/84e564781d7e215548a4128aeacf1578/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cfbe19f7dab167b7d5dedc25a2a97fed/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/59321df9546c6a0b1f32fee2743f218f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ee62f7eec9f1ce142766a0cbb156f2cf/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5add5a900235e4f272d2f157795ee89d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1dda5388ca6550bddb32c16fe6f49599/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cd6630dbb5c06e411a5fe6c65b1d8468/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/01b4c1641f3cef9177d14fd1cc9dd5d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/07b2251acc0fd23fd57ac36ecf96da8b/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:2:5-48
+		INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d9d13cfbafb04cc57727c168edce83c7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d9d13cfbafb04cc57727c168edce83c7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ee62f7eec9f1ce142766a0cbb156f2cf/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ee62f7eec9f1ce142766a0cbb156f2cf/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d9d13cfbafb04cc57727c168edce83c7/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:17:9-39
+	android:icon
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.paolodellaquila.bmicalculator.MainActivity
+ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/14b5562541a405f42c898cd0d5ad13a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/14b5562541a405f42c898cd0d5ad13a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f2e00fc6ddb02a618b877f2454f23f43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f2e00fc6ddb02a618b877f2454f23f43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e6c702afc629f120ee447607b5466bb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e6c702afc629f120ee447607b5466bb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b64525ddd9279a10cf201f9b2bdb1336/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b64525ddd9279a10cf201f9b2bdb1336/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/49936c83e462728e07232e4c31a64699/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/49936c83e462728e07232e4c31a64699/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/42021858ba2e8a819b0c37caadf349da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/42021858ba2e8a819b0c37caadf349da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0587f063207a145013a6d64599163831/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0587f063207a145013a6d64599163831/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e8175b2b2704fb490f47cfd6392b4255/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e8175b2b2704fb490f47cfd6392b4255/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9fed6e8515cf2b0984ed9992b5c87d37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9fed6e8515cf2b0984ed9992b5c87d37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/082a4f14aaef12c011181e50044b8092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/082a4f14aaef12c011181e50044b8092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6286ddd39ea69e19bedcbb5cb8506442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6286ddd39ea69e19bedcbb5cb8506442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d9d13cfbafb04cc57727c168edce83c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d9d13cfbafb04cc57727c168edce83c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cc6e651b2f13daab3038a90c66b61a88/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cc6e651b2f13daab3038a90c66b61a88/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b64e42398cb276793d16408d3ddcd7c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b64e42398cb276793d16408d3ddcd7c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/84e564781d7e215548a4128aeacf1578/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/84e564781d7e215548a4128aeacf1578/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cfbe19f7dab167b7d5dedc25a2a97fed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cfbe19f7dab167b7d5dedc25a2a97fed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/59321df9546c6a0b1f32fee2743f218f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/neeraj/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/59321df9546c6a0b1f32fee2743f218f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ee62f7eec9f1ce142766a0cbb156f2cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ee62f7eec9f1ce142766a0cbb156f2cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5add5a900235e4f272d2f157795ee89d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5add5a900235e4f272d2f157795ee89d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1dda5388ca6550bddb32c16fe6f49599/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1dda5388ca6550bddb32c16fe6f49599/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cd6630dbb5c06e411a5fe6c65b1d8468/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cd6630dbb5c06e411a5fe6c65b1d8468/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/01b4c1641f3cef9177d14fd1cc9dd5d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/01b4c1641f3cef9177d14fd1cc9dd5d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/07b2251acc0fd23fd57ac36ecf96da8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/neeraj/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/07b2251acc0fd23fd57ac36ecf96da8b/AndroidManifest.xml:20:5-44
+INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/neeraj/Desktop/Flutter eg/BMI_calculator-master/android/app/src/main/AndroidManifest.xml
